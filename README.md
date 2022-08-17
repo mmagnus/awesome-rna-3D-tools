@@ -19,6 +19,8 @@
 awesome tools for RNA
 https://bio.tools/
 
+(Quick and dirty dump of tools, by Category or by Labs)
+
 ## Toolbox
 
 - rna-tools: a toolbox to analyze sequences, structures and simulations of RNA (and more) docs @ http://rna-tools.rtfd.io web @ http://rna-tools.online https://github.com/mmagnus/rna-tools `pip install rna-tools`
