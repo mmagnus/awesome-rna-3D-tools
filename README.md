@@ -16,37 +16,39 @@ A webserver to analyze entanglements in RNA 3D structures https://rnaspider.cs.p
 
 ## List of tools (at labs)
 ### RNApolis
-https://github.com/RNApolis
-https://www.cs.put.poznan.pl/mszachniuk/site/research-grants/
+- https://github.com/RNApolis
+- https://www.cs.put.poznan.pl/mszachniuk/site/research-grants/
 
-- RNAssess	webserver for quality assessment of RNA 3D structures [ref]
-- RNAComposer	fully automated RNA structure prediction server [ref, ref]
-- RNAfitme	webserver for modeling nucleobase and nucleoside residue conformation in fixed-backbone RNA structures [ref]
-- RNA FRABASE	RNA FRAgments dataBASE and search engine [ref, ref]
-- RNAhugs*	webserver for RNA 3D structure alignment [ref]
-- RNAloops	database of RNA multiloops [ref]
-- RNAlyzer	framework for quality analysis of RNA models [ref]
-- RNApdbee	multifunctional webserver tool for RNA structure annotation [ref, ref]
-- RNAQUA	computational tool for RNA QUality Assessment [ref]
-- RNAspider	webserver to analyze entanglements in RNA 3D structures [ref]
-- RNAsolo	database of cleaned PDB-derived RNA 3D structures [ref]
-- RNAtango*	webserver for torsion-angle based similarity analysis of RNA 3D structures [ref]
-- RNAthor	webserver for the automatic normalization of RNA probing data [ref]
-- RNAtive	webserver to rank 3D RNA models and infer the native [ref]
-- RNAvista	webserver to assess RNA secondary structures with non-canonical base pairs [ref]
-- MCQ4Structures  standalone app to compute torsion angle-based similarity of molecule structures [ref]
+#### RNApolis – a virtual laboratory of RNA bioinformatics
+
+- RNAssess	webserver for quality assessment of RNA 3D structures 
+- RNAComposer	fully automated RNA structure prediction server
+- RNAfitme	webserver for modeling nucleobase and nucleoside residue conformation in fixed-backbone RNA structures 
+- RNA FRABASE	RNA FRAgments dataBASE and search engine
+- RNAhugs*	webserver for RNA 3D structure alignment 
+- RNAloops	database of RNA multiloops 
+- RNAlyzer	framework for quality analysis of RNA models 
+- RNApdbee	multifunctional webserver tool for RNA structure annotation
+- RNAQUA	computational tool for RNA QUality Assessment 
+- RNAspider	webserver to analyze entanglements in RNA 3D structures 
+- RNAsolo	database of cleaned PDB-derived RNA 3D structures 
+- RNAtango*	webserver for torsion-angle based similarity analysis of RNA 3D structures 
+- RNAthor	webserver for the automatic normalization of RNA probing data 
+- RNAtive	webserver to rank 3D RNA models and infer the native 
+- RNAvista	webserver to assess RNA secondary structures with non-canonical base pairs 
+- MCQ4Structures  standalone app to compute torsion angle-based similarity of molecule structures 
 
 #### Computational systems for quadruplexes
 
-- DrawTetrado	standalone app to draw layer diagrams representing quadruplex structures [ref]
-- ElTetrado	standalone app for identification and classification of tetrads and quadruplexes [ref]
-- ONQUADRO	database of tetrads, quadruplexes, and G4-helices [ref]
-- WebTetrado*	webserver to annotate and visualize quadruplexes in nucleic acid 3D structures [ref]
+- DrawTetrado	standalone app to draw layer diagrams representing quadruplex structures 
+- ElTetrado	standalone app for identification and classification of tetrads and quadruplexes 
+- ONQUADRO	database of tetrads, quadruplexes, and G4-helices 
+- WebTetrado*	webserver to annotate and visualize quadruplexes in nucleic acid 3D structures 
 
 #### Other computational tools
 
-- SMERFA*	structural, muscular and elastic RNA finder and aligner [ref]
-- Virxicon	a lexicon of viral sequences [ref]
+- SMERFA*	structural, muscular and elastic RNA finder and aligner 
+- Virxicon	a lexicon of viral sequences 
 
 ### bgsu.edu
 https://www.bgsu.edu/research/rna/web-applications.html
