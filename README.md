@@ -28,10 +28,11 @@ https://bio.tools/
 ## Structural databases
 
 - http://rna.bgsu.edu/rna3dhub
+- RNAsolo - database of cleaned PDB-derived RNA 3D structures https://rnasolo.cs.put.poznan.pl
 
 ## 3D annotation
 
-- A webserver to analyze entanglements in RNA 3D structures https://rnaspider.cs.put.poznan.pl/
+- RNAspider A webserver to analyze entanglements in RNA 3D structures https://rnaspider.cs.put.poznan.pl/
 
 ## List of tools (at labs)
 ### RNApolis
