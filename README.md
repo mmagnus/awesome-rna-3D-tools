@@ -19,7 +19,7 @@
 awesome tools for RNA
 https://bio.tools/
 
-(Quick and dirty dump of tools, by Category or by Labs)
+(Quick and dirty dump of tools, by Category or by Labs, to be cleaned and improved over time)
 
 ## Toolbox
 
