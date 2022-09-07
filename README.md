@@ -5,6 +5,8 @@
     - [Toolbox](#toolbox)
     - [Structural databases](#structural-databases)
     - [3D annotation](#3d-annotation)
+    - [RNA-Protein Docking](#rna-protein-docking)
+    - [Minimization](#minimization)
     - [List of tools (at labs)](#list-of-tools-at-labs)
         - [RNApolis](#rnapolis)
             - [RNApolis – a virtual laboratory of RNA bioinformatics](#rnapolis--a-virtual-laboratory-of-rna-bioinformatics)
@@ -13,7 +15,6 @@
         - [bgsu.edu](#bgsuedu)
 
 <!-- markdown-toc end -->
-
 
 # awsome-rna-tools
 awesome tools for RNA
@@ -41,6 +42,8 @@ https://bio.tools/
 ## Minimization
 
 - BRiQ - Xiong, P., Wu, R., Zhan, J. & Zhou, Y. Pairing a high-resolution statistical potential with a nucleobase-centric sampling algorithm for improving RNA model refinement. Nat Commun 12, 2777 (2021). https://www.nature.com/articles/s41467-021-23100-4
+
+- QRNAS - Stasiewicz, J., Mukherjee, S., Nithin, C. & Bujnicki, J. M. QRNAS: software tool for refinement of nucleic acid structures. BMC Struct. Biol. 19, 5 (2019).
   
 ## List of tools (at labs)
 ### RNApolis
