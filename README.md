@@ -6,7 +6,7 @@
     - [Structural databases](#structural-databases)
     - [3D annotation](#3d-annotation)
     - [RNA-Protein Docking](#rna-protein-docking)
-    - [Minimization](#minimization)
+    - [Minimization/Optimize](#minimizationoptimize)
     - [List of tools (at labs)](#list-of-tools-at-labs)
         - [RNApolis](#rnapolis)
             - [RNApolis – a virtual laboratory of RNA bioinformatics](#rnapolis--a-virtual-laboratory-of-rna-bioinformatics)
@@ -39,11 +39,13 @@ https://bio.tools/
 
 - NPDock (Nucleic acid-Protein Dock) is a web server for modeling of RNA-protein and DNA-protein complex structures http://genesilico.pl/NPDock
 
-## Minimization
+## Minimization/Optimize
 
-- BRiQ - Xiong, P., Wu, R., Zhan, J. & Zhou, Y. Pairing a high-resolution statistical potential with a nucleobase-centric sampling algorithm for improving RNA model refinement. Nat Commun 12, 2777 (2021). https://www.nature.com/articles/s41467-021-23100-4
+- BRiQ - Xiong, P., Wu, R., Zhan, J. & Zhou, Y. Pairing a high-resolution statistical potential with a nucleobase-centric sampling algorithm for improving RNA model refinement. Nat Commun 12, 2777 (2021). https://www.nature.com/articles/s41467-021-23100-4 https://github.com/Jian-Zhan/RNA-BRiQ
 
-- QRNAS - Stasiewicz, J., Mukherjee, S., Nithin, C. & Bujnicki, J. M. QRNAS: software tool for refinement of nucleic acid structures. BMC Struct. Biol. 19, 5 (2019).
+- QRNAS - Stasiewicz, J., Mukherjee, S., Nithin, C. & Bujnicki, J. M. QRNAS: software tool for refinement of nucleic acid structures. BMC Struct. Biol. 19, 5 (2019). http://genesilico.pl/qrnas https://bmcstructbiol.biomedcentral.com/articles/10.1186/s12900-019-0103-1 https://github.com/sunandanmukherjee/QRNAS
+
+- PYMOL https://pymolwiki.org/index.php/Optimize https://pymolwiki.org/index.php/Molecular_Sculpting 
   
 ## List of tools (at labs)
 ### RNApolis
@@ -91,3 +93,5 @@ Currently we are hosting 4 web applications for analyzing RNA 3D structure:
 - R3D Align -  global pairwise alignment of RNA 3D structures using local superpositions
 - JAR3D - predicting RNA 3D motifs in sequences
 - R3D-2-MSA Server - server for accessing alignments from 3d structures
+
+(ref in Nature style)
