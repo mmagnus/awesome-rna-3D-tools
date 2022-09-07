@@ -3,10 +3,12 @@
 </h1>
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
 
 - [awsome-rna-tools](#awsome-rna-tools)
     - [RNA Toolbox](#rna-toolbox)
     - [RNA Structural databases](#rna-structural-databases)
+    - [RNA 3D contacts annotation](#rna-3d-contacts-annotation)
     - [RNA 3D annotation](#rna-3d-annotation)
     - [RNA-Protein Docking](#rna-protein-docking)
     - [RNA Minimization/Optimize](#rna-minimizationoptimize)
@@ -16,6 +18,7 @@
             - [Computational systems for quadruplexes](#computational-systems-for-quadruplexes)
             - [Other computational tools](#other-computational-tools)
         - [bgsu.edu](#bgsuedu)
+- [Footnotes](#footnotes)
 
 <!-- markdown-toc end -->
 
@@ -33,6 +36,11 @@ https://bio.tools/
 
 - http://rna.bgsu.edu/rna3dhub
 - RNAsolo - database of cleaned PDB-derived RNA 3D structures https://rnasolo.cs.put.poznan.pl
+
+## RNA 3D contacts annotation
+
+- ClaRNA Contacts classifier for RNA 3D http://iimcb.genesilico.pl/clarna/
+
 
 ## RNA 3D annotation
 
