@@ -34,6 +34,14 @@ https://bio.tools/
 
 - RNAspider A webserver to analyze entanglements in RNA 3D structures https://rnaspider.cs.put.poznan.pl/
 
+## RNA-Protein Docking
+
+- NPDock (Nucleic acid-Protein Dock) is a web server for modeling of RNA-protein and DNA-protein complex structures http://genesilico.pl/NPDock
+
+## Minimization
+
+Xiong, P., Wu, R., Zhan, J. & Zhou, Y. Pairing a high-resolution statistical potential with a nucleobase-centric sampling algorithm for improving RNA model refinement. Nat Commun 12, 2777 (2021).
+  
 ## List of tools (at labs)
 ### RNApolis
 
