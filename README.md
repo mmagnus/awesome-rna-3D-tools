@@ -45,6 +45,8 @@ https://bio.tools/
 
 - QRNAS - Stasiewicz, J., Mukherjee, S., Nithin, C. & Bujnicki, J. M. QRNAS: software tool for refinement of nucleic acid structures. BMC Struct. Biol. 19, 5 (2019). http://genesilico.pl/qrnas https://bmcstructbiol.biomedcentral.com/articles/10.1186/s12900-019-0103-1 https://github.com/sunandanmukherjee/QRNAS
 
+> CYANA (Güntert and Buchner 2015), NAMD (Phillips et al. 2020), XPLOR-NIH (Schwieters et al. 2003)—for the preliminary models or ensuring a proper stereochemistry from the early stages of prediction. One can also process the predicted RNA structures using tools—for example, RNAfitme (Zok et al. 2015; Antczak et al. 2018) or QRNAS (Stasiewicz et al. 2019)—having the potential to refine the nucleic acid structure. {Carrascoza, F., Antczak, M., Miao, Z., Westhof, E. & Szachniuk, M. Evaluation of the stereochemical quality of predicted RNA 3D models in the RNA-Puzzles submissions. Rna 28, 250–262 (2022).}  
+
 - PYMOL https://pymolwiki.org/index.php/Optimize https://pymolwiki.org/index.php/Molecular_Sculpting 
 
 - Chimera https://www.cgl.ucsf.edu/chimera/current/docs/ContributedSoftware/minimize/minimize.html
