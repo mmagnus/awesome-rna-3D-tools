@@ -1,5 +1,9 @@
-<h1>awsome-rna-3D-tools</h1>
+<h1 align="center">
+  awsome-rna-3d-tools
+</h1>
+
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+
 **Table of Contents**
 
 - [awsome-rna-tools](#awsome-rna-tools)
