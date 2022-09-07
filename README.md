@@ -4,8 +4,6 @@
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 
-**Table of Contents**
-
 - [awsome-rna-tools](#awsome-rna-tools)
     - [RNA Toolbox](#rna-toolbox)
     - [RNA Structural databases](#rna-structural-databases)
