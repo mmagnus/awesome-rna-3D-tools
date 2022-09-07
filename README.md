@@ -2,11 +2,11 @@
 **Table of Contents**
 
 - [awsome-rna-tools](#awsome-rna-tools)
-    - [Toolbox](#toolbox)
-    - [Structural databases](#structural-databases)
-    - [3D annotation](#3d-annotation)
+    - [RNA Toolbox](#rna-toolbox)
+    - [RNA Structural databases](#rna-structural-databases)
+    - [RNA 3D annotation](#rna-3d-annotation)
     - [RNA-Protein Docking](#rna-protein-docking)
-    - [Minimization/Optimize](#minimizationoptimize)
+    - [RNA Minimization/Optimize](#rna-minimizationoptimize)
     - [List of tools (at labs)](#list-of-tools-at-labs)
         - [RNApolis](#rnapolis)
             - [RNApolis – a virtual laboratory of RNA bioinformatics](#rnapolis--a-virtual-laboratory-of-rna-bioinformatics)
@@ -22,7 +22,7 @@ https://bio.tools/
 
 (Quick and dirty dump of tools, by Category or by Labs, to be cleaned and improved over time)
 
-## Toolbox
+## RNA Toolbox
 
 - rna-tools: a toolbox to analyze sequences, structures and simulations of RNA (and more) docs @ http://rna-tools.rtfd.io web @ http://rna-tools.online https://github.com/mmagnus/rna-tools `pip install rna-tools`
 
@@ -46,7 +46,9 @@ https://bio.tools/
 - QRNAS - Stasiewicz, J., Mukherjee, S., Nithin, C. & Bujnicki, J. M. QRNAS: software tool for refinement of nucleic acid structures. BMC Struct. Biol. 19, 5 (2019). http://genesilico.pl/qrnas https://bmcstructbiol.biomedcentral.com/articles/10.1186/s12900-019-0103-1 https://github.com/sunandanmukherjee/QRNAS
 
 - PYMOL https://pymolwiki.org/index.php/Optimize https://pymolwiki.org/index.php/Molecular_Sculpting 
-  
+
+- Chimera https://www.cgl.ucsf.edu/chimera/current/docs/ContributedSoftware/minimize/minimize.html
+
 ## List of tools (at labs)
 ### RNApolis
 
