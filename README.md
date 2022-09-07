@@ -26,12 +26,12 @@ https://bio.tools/
 
 - rna-tools: a toolbox to analyze sequences, structures and simulations of RNA (and more) docs @ http://rna-tools.rtfd.io web @ http://rna-tools.online https://github.com/mmagnus/rna-tools `pip install rna-tools`
 
-## Structural databases
+## RNA Structural databases
 
 - http://rna.bgsu.edu/rna3dhub
 - RNAsolo - database of cleaned PDB-derived RNA 3D structures https://rnasolo.cs.put.poznan.pl
 
-## 3D annotation
+## RNA 3D annotation
 
 - RNAspider A webserver to analyze entanglements in RNA 3D structures https://rnaspider.cs.put.poznan.pl/
 
@@ -39,7 +39,7 @@ https://bio.tools/
 
 - NPDock (Nucleic acid-Protein Dock) is a web server for modeling of RNA-protein and DNA-protein complex structures http://genesilico.pl/NPDock
 
-## Minimization/Optimize
+## RNA Minimization/Optimize
 
 - BRiQ - Xiong, P., Wu, R., Zhan, J. & Zhou, Y. Pairing a high-resolution statistical potential with a nucleobase-centric sampling algorithm for improving RNA model refinement. Nat Commun 12, 2777 (2021). https://www.nature.com/articles/s41467-021-23100-4 https://github.com/Jian-Zhan/RNA-BRiQ
 
