@@ -29,10 +29,6 @@ here we try to make a quick and dirty dump of tools, by Category or by Labs, to 
     - [bgsu.edu](#bgsuedu)
     - [pylelab.org](#pylelaborg)
     - [bujnickilab](#bujnickilab)
-- [Footnotes](#footnotes)
-    - [^2](#2)
-    - [^3](#3)
-    - [^4](#4)
 
 <!-- markdown-toc end -->
 
