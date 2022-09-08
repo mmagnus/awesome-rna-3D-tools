@@ -7,6 +7,9 @@ awesome tools for RNA 3D
 for more robust list of tools see https://bio.tools/
 
 here we try to make a quick and dirty dump of tools, by Category or by Labs, to be cleaned and improved over time
+
+https://github.com/mmagnus/awesome-rna-3D-tools
+
 </div>
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
