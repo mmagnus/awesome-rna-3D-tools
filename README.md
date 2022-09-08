@@ -29,7 +29,10 @@ here we try to make a quick and dirty dump of tools, by Category or by Labs, to 
     - [bgsu.edu](#bgsuedu)
     - [pylelab.org](#pylelaborg)
     - [bujnickilab](#bujnickilab)
-
+- [Footnotes](#footnotes)
+    - [^2](#2)
+    - [^3](#3)
+    - [^4](#4)
 
 <!-- markdown-toc end -->
 
@@ -55,10 +58,10 @@ pairs.
 
 # RNA 3D contacts predictions from alignments
 
-- SHEVEK [^2]
+- SHEVEK
 - ISFOLD
 - https://marks.hms.harvard.edu/ev_rna/
-- Direct-Coupling Analysis of nucleotide coevolution facilitates RNA secondary and tertiary structure prediction by (...), Alexander Schug and Martin Weigt, DCA+Rosetta
+- Direct-Coupling Analysis of nucleotide coevolution facilitates RNA secondary and tertiary structure prediction by (...), Alexander Schug and Martin Weigt, DCA+Rosetta [^4]
 
 # RNA 3D contacts annotation
 
@@ -145,8 +148,17 @@ https://pylelab.org/software https://github.com/pylelab
 - Qnifft utilizes the non-linear Poisson-Boltzmann (NLPB) equation to calculate the electrostatic potentials of nucleic acids. http://crystal.med.upenn.edu/kaslab_software.html 
 
 ## bujnickilab
-
 http://genesilico.pl/
+
+- ModeRNA - We developed a method for 3D homology modeling of RNA structures. It requires a pairwise sequence alignment and a structural template to generate a 3D structural model of the target RNA sequence via either a fully automated or script-based approaches. ModeRNA is capable of handling 115 different nucleotide modifications and bridging gaps using fragments derived from an extensive fragment library.
+
+- RNAmap2D - RNAmap2D is a software tool for calculation of contact and distance maps based on user-defined criteria, and to some extent, quantitative comparison of pairs or series of contact maps and visualization of the results.
+ 
+- FILTREST3D - Filtrest3D is a program for discrimination of a large number of alternative models of protein structure or protein-ligand structure against a set of restraints derived from low-resolution experimental analyses (such as cross-linking, mutagenesis, circular dichrosm etc.) as well as from computational predictions (e.g. solvent accessibility, amino acid contact maps).
+
+- DARS-RNP and QUASI-RNP, potentials for protein-RNA docking - We developed two medium-resolution, knowledge-based potentials for scoring protein-RNA models obtained by docking: the quasi-chemical potential (QUASI-RNP) and the Decoys As the Reference State potential (DARS-RNP). Both potentials use a coarse-grained representation for both RNA and protein molecules and are capable of dealing with RNA structures with posttranscriptionally modified residues. In our tests that compared these methods to other published potentials, DARS-RNP showed the highest ability to identify native-like structures.
+
+- QRNAS - QRNAS is an extension of the AMBER simulation method with additional terms associated with explicit hydrogen bonds, co-planarity base pairs, backbone regularization, and custom restraints. QRNAS is capable of handling RNA, DNA, chimeras and hybrids thereof, and enables modeling of nucleic acids containing modified residues.
 
 (ref in Nature style + misc)
 
@@ -155,3 +167,5 @@ http://genesilico.pl/
 [^2]: Prediction of Functional Tertiary Interactions and Intermolecular Interfaces From Primary Sequence Data", PS Pang, E Jankowsky, LM Wadley and AM Pyle, J of Experimental Zoology (Mol Dev Evol) (2005), 000, 1-14.
 
 [^3]: Chengxin Zhang, Anna Marie Pyle (2022) "CSSR: assignment of secondary structure to coarse-grained RNA tertiary structures." Acta Crystallogr D. In press.
+
+[^4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4666395/
