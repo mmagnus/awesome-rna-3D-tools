@@ -50,7 +50,7 @@ https://bio.tools/
 
 - NPDock (Nucleic acid-Protein Dock) is a web server for modeling of RNA-protein and DNA-protein complex structures http://genesilico.pl/NPDock
 
-## RNA Minimization/Optimize
+## RNA Minimization/Optimize/Refinement
 
 - BRiQ - Xiong, P., Wu, R., Zhan, J. & Zhou, Y. Pairing a high-resolution statistical potential with a nucleobase-centric sampling algorithm for improving RNA model refinement. Nat Commun 12, 2777 (2021). https://www.nature.com/articles/s41467-021-23100-4 https://github.com/Jian-Zhan/RNA-BRiQ
 
