@@ -1,11 +1,13 @@
-<h1 align="center">
+<div align="center">
+<h1>
   awsome-rna-3d-tools
 </h1>
 awesome tools for RNA 3D
 
-For more robust list of tools see https://bio.tools/
+for more robust list of tools see https://bio.tools/
 
-Here we try to make a quick and dirty dump of tools, by Category or by Labs, to be cleaned and improved over time.
+here we try to make a quick and dirty dump of tools, by Category or by Labs, to be cleaned and improved over time
+</div>
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
@@ -26,14 +28,9 @@ Here we try to make a quick and dirty dump of tools, by Category or by Labs, to 
         - [Other computational tools](#other-computational-tools)
     - [bgsu.edu](#bgsuedu)
     - [pylelab.org](#pylelaborg)
-    - [bujnickilab](#bujnickilab)
-- [Footnotes](#footnotes)
-    - [^2](#2)
-    - [^3](#3)
+    - [bujnickilab](#bujnickilab]
 
 <!-- markdown-toc end -->
-
-awsome-rna-tools
 
 # RNA Toolbox
 
