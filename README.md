@@ -11,7 +11,7 @@
     - [RNA 3D contacts annotation](#rna-3d-contacts-annotation)
     - [RNA 3D annotation](#rna-3d-annotation)
     - [RNA-Protein Docking](#rna-protein-docking)
-    - [RNA Minimization/Optimize](#rna-minimizationoptimize)
+    - [RNA Minimization/Optimize/Refinement](#rna-minimizationoptimizerefinement)
     - [List of tools (at labs)](#list-of-tools-at-labs)
         - [RNApolis](#rnapolis)
             - [RNApolis – a virtual laboratory of RNA bioinformatics](#rnapolis--a-virtual-laboratory-of-rna-bioinformatics)
@@ -52,7 +52,7 @@ https://bio.tools/
 
 - NPDock (Nucleic acid-Protein Dock) is a web server for modeling of RNA-protein and DNA-protein complex structures http://genesilico.pl/NPDock
 
-## RNA Minimization/Optimize
+## RNA Minimization/Optimize/Refinement
 
 - BRiQ - Xiong, P., Wu, R., Zhan, J. & Zhou, Y. Pairing a high-resolution statistical potential with a nucleobase-centric sampling algorithm for improving RNA model refinement. Nat Commun 12, 2777 (2021). https://www.nature.com/articles/s41467-021-23100-4 https://github.com/Jian-Zhan/RNA-BRiQ
 
