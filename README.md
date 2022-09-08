@@ -40,7 +40,9 @@ https://bio.tools/
 ## RNA 3D contacts annotation
 
 - ClaRNA Contacts classifier for RNA 3D http://iimcb.genesilico.pl/clarna/
-
+- MC-Annotate http://major.iric.ca/MajorLabEn/MC-Tools.html
+- RNApdbee - multifunctional webserver tool for RNA structure annotation http://rnapdbee.cs.put.poznan.pl
+- CSSR - Assignment of secondary structure to coarse-grain RNA 3D structures https://github.com/pylelab/CSSR [^3]
 
 ## RNA 3D annotation
 
@@ -109,6 +111,22 @@ Currently we are hosting 4 web applications for analyzing RNA 3D structure:
 - JAR3D - predicting RNA 3D motifs in sequences
 - R3D-2-MSA Server - server for accessing alignments from 3d structures
 
-(ref in Nature style)
+
+### pylelab.org
+https://pylelab.org/software https://github.com/pylelab
+
+- SHEVEK predicts long-range tertiary interactions within RNAs, between RNA-protein and protein-protein interactions from sequence alignments. https://github.com/pylelab/SHEVEK/releases [^2] 
+- Qnifft utilizes the non-linear Poisson-Boltzmann (NLPB) equation to calculate the electrostatic potentials of nucleic acids. http://crystal.med.upenn.edu/kaslab_software.html 
+
+### bujnicki
+http://genesilico.pl/
+
+## References
+
+(ref in Nature style + misc)
 
 [^1]: Carrascoza, F., Antczak, M., Miao, Z., Westhof, E. & Szachniuk, M. Evaluation of the stereochemical quality of predicted RNA 3D models in the RNA-Puzzles submissions. Rna 28, 250–262 (2022)
+
+[^2]: Prediction of Functional Tertiary Interactions and Intermolecular Interfaces From Primary Sequence Data", PS Pang, E Jankowsky, LM Wadley and AM Pyle, J of Experimental Zoology (Mol Dev Evol) (2005), 000, 1-14.
+
+[^3]: Chengxin Zhang, Anna Marie Pyle (2022) "CSSR: assignment of secondary structure to coarse-grained RNA tertiary structures." Acta Crystallogr D. In press.
