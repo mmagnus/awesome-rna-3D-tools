@@ -28,7 +28,8 @@ here we try to make a quick and dirty dump of tools, by Category or by Labs, to 
         - [Other computational tools](#other-computational-tools)
     - [bgsu.edu](#bgsuedu)
     - [pylelab.org](#pylelaborg)
-    - [bujnickilab](#bujnickilab]
+    - [bujnickilab](#bujnickilab)
+
 
 <!-- markdown-toc end -->
 
