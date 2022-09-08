@@ -11,7 +11,7 @@
     - [RNA 3D contacts annotation](#rna-3d-contacts-annotation)
     - [RNA 3D annotation](#rna-3d-annotation)
     - [RNA-Protein Docking](#rna-protein-docking)
-    - [RNA Minimization/Optimize](#rna-minimizationoptimize)
+    - [RNA Minimization/Optimize/Refinement](#rna-minimizationoptimizerefinement)
     - [List of tools (at labs)](#list-of-tools-at-labs)
         - [RNApolis](#rnapolis)
             - [RNApolis – a virtual laboratory of RNA bioinformatics](#rnapolis--a-virtual-laboratory-of-rna-bioinformatics)
