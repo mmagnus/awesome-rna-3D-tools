@@ -68,22 +68,35 @@ pairs.
 - MC-Annotate http://major.iric.ca/MajorLabEn/MC-Tools.html
 - RNApdbee - multifunctional webserver tool for RNA structure annotation http://rnapdbee.cs.put.poznan.pl
 - CSSR - Assignment of secondary structure to coarse-grain RNA 3D structures https://github.com/pylelab/CSSR [^3]
+- bpnet -  This software is for computing base pair networks found in DNA/RNA. The software also calculates the overlap based network computations - https://github.com/computational-biology/bpnet
 
 # RNA 3D annotation
+(not as "simple" as contact, for contacts see above)
 
 - RNAspider A webserver to analyze entanglements in RNA 3D structures https://rnaspider.cs.put.poznan.pl/
+
+# RNA 3D comparison metrics
+
+> There are also other novel metrics being developed in recent years, including the mean of circular quantities (MCQ) and the Longest Continuous Segments in Torsion Angle space (LCS-TA), which measure the structural similarity in the torsion angle space.
+
+# RNA 3D structure prediction
+
+> During the last decade, a good number of RNA 3D structure prediction algorithms have been actively developed and improved. These prediction methods cover approaches similar to protein structure prediction, including comparative modeling (e.g., ModeRNA), fragment assembly (e.g., RNAComposer, 3dRNA, and VfoldLA), and de novo modeling (e.g., NAST, iFoldRNA, and SimRNA/SimRNAweb).
 
 # RNA-Protein Docking
 
 - NPDock (Nucleic acid-Protein Dock) is a web server for modeling of RNA-protein and DNA-protein complex structures http://genesilico.pl/NPDock
 
 # RNA Minimization/Optimize/Refinement
+> CYANA (Güntert and Buchner 2015), NAMD (Phillips et al. 2020), XPLOR-NIH (Schwieters et al. 2003)—for the preliminary models or ensuring a proper stereochemistry from the early stages of prediction. One can also process the predicted RNA structures using tools—for example, RNAfitme (Zok et al. 2015; Antczak et al. 2018) or QRNAS (Stasiewicz et al. 2019)—having the potential to refine the nucleic acid structure. [^1]
 
 - BRiQ - Xiong, P., Wu, R., Zhan, J. & Zhou, Y. Pairing a high-resolution statistical potential with a nucleobase-centric sampling algorithm for improving RNA model refinement. Nat Commun 12, 2777 (2021). https://www.nature.com/articles/s41467-021-23100-4 https://github.com/Jian-Zhan/RNA-BRiQ
 
 - QRNAS - Stasiewicz, J., Mukherjee, S., Nithin, C. & Bujnicki, J. M. QRNAS: software tool for refinement of nucleic acid structures. BMC Struct. Biol. 19, 5 (2019). http://genesilico.pl/qrnas https://bmcstructbiol.biomedcentral.com/articles/10.1186/s12900-019-0103-1 https://github.com/sunandanmukherjee/QRNAS
 
-> CYANA (Güntert and Buchner 2015), NAMD (Phillips et al. 2020), XPLOR-NIH (Schwieters et al. 2003)—for the preliminary models or ensuring a proper stereochemistry from the early stages of prediction. One can also process the predicted RNA structures using tools—for example, RNAfitme (Zok et al. 2015; Antczak et al. 2018) or QRNAS (Stasiewicz et al. 2019)—having the potential to refine the nucleic acid structure. [^1]
+- rnafitme - M. Antczak, T. Zok, M. Osowiecki, M. Popenda, R.W. Adamiak, M. Szachniuk. RNAfitme: a webserver for modeling nucleobase and nucleoside residue conformation in fixed-backbone RNA structures, BMC Bioinformatics, 2018, 19, pp. 304 10.1186/s12859-018-2317-9. https://rnafitme.cs.put.poznan.pl
+
+-------------------------------------------------------------------------------
 
 - PYMOL https://pymolwiki.org/index.php/Optimize https://pymolwiki.org/index.php/Molecular_Sculpting 
 
