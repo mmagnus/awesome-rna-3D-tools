@@ -68,7 +68,7 @@ pairs.
 - MC-Annotate http://major.iric.ca/MajorLabEn/MC-Tools.html
 - RNApdbee - multifunctional webserver tool for RNA structure annotation http://rnapdbee.cs.put.poznan.pl
 - CSSR - Assignment of secondary structure to coarse-grain RNA 3D structures https://github.com/pylelab/CSSR [^3]
-- bpnet -  This software is for computing base pair networks found in DNA/RNA. The software also calculates the overlap based network computations - https://github.com/computational-biology/bpnet
+- bpnet -  This software is for computing base pair networks found in DNA/RNA. The software also calculates the overlap based network computations - https://github.com/computational-biology/bpnet [does not compile on mac @mmagnus as of 220913]
 
 # RNA 3D annotation
 (not as "simple" as contact, for contacts see above)
