@@ -25,8 +25,8 @@ https://github.com/mmagnus/awesome-rna-3D-tools
 - [RNA 3D annotation](#rna-3d-annotation)
 - [RNA 3D comparison metrics](#rna-3d-comparison-metrics)
 - [RNA 3D structure prediction](#rna-3d-structure-prediction)
+- [RNA 3D minimization/optimize/refinement](#rna-3d-minimizationoptimizerefinement)
 - [RNA-Protein Docking](#rna-protein-docking)
-- [RNA Minimization/Optimize/Refinement](#rna-minimizationoptimizerefinement)
 - [List of tools (per labs)](#list-of-tools-per-labs)
     - [RNApolis](#rnapolis)
         - [RNApolis – a virtual laboratory of RNA bioinformatics](#rnapolis--a-virtual-laboratory-of-rna-bioinformatics)
@@ -107,11 +107,7 @@ Tools that predict other types of contacts in RNA structures, including non-cano
 - NAST - one bead (C3′ atom) - Jonikas, M. A. et al. Coarse-grained modeling of large RNA molecules with knowledge-based potentials and structural filters. Rna 15, 189–199 (2009).
 - HiRE-RNA - >5 beads
 
-# RNA-Protein Docking
-
-- NPDock (Nucleic acid-Protein Dock) is a web server for modeling of RNA-protein and DNA-protein complex structures http://genesilico.pl/NPDock
-
-# RNA Minimization/Optimize/Refinement
+# RNA 3D minimization/optimize/refinement
 > CYANA (Güntert and Buchner 2015), NAMD (Phillips et al. 2020), XPLOR-NIH (Schwieters et al. 2003)—for the preliminary models or ensuring a proper stereochemistry from the early stages of prediction. One can also process the predicted RNA structures using tools—for example, RNAfitme (Zok et al. 2015; Antczak et al. 2018) or QRNAS (Stasiewicz et al. 2019)—having the potential to refine the nucleic acid structure. [^1]
 
 - BRiQ - Xiong, P., Wu, R., Zhan, J. & Zhou, Y. Pairing a high-resolution statistical potential with a nucleobase-centric sampling algorithm for improving RNA model refinement. Nat Commun 12, 2777 (2021). https://www.nature.com/articles/s41467-021-23100-4 https://github.com/Jian-Zhan/RNA-BRiQ
@@ -125,6 +121,10 @@ Tools that predict other types of contacts in RNA structures, including non-cano
 - PYMOL https://pymolwiki.org/index.php/Optimize https://pymolwiki.org/index.php/Molecular_Sculpting 
 
 - Chimera https://www.cgl.ucsf.edu/chimera/current/docs/ContributedSoftware/minimize/minimize.html
+
+# RNA-Protein Docking
+
+- NPDock (Nucleic acid-Protein Dock) is a web server for modeling of RNA-protein and DNA-protein complex structures http://genesilico.pl/NPDock
 
 # List of tools (per labs)
 
