@@ -39,6 +39,9 @@ https://github.com/mmagnus/awesome-rna-3D-tools
 
 - rna-tools: a toolbox to analyze sequences, structures and simulations of RNA (and more) docs @ http://rna-tools.rtfd.io web @ http://rna-tools.online https://github.com/mmagnus/rna-tools `pip install rna-tools`
   
+# Deep Learning for RNA #
+[...]
+
 # RNA structural databases
 
 - http://rna.bgsu.edu/rna3dhub
@@ -48,6 +51,21 @@ https://github.com/mmagnus/awesome-rna-3D-tools
 
 - RNAfold - is one of the core programs of the Vienna RNA package. It can be used to predict the minimum free energy (MFE) secondary structure of single sequences using the dynamic programming algorithm originally proposed by Zuker and Stiegler.  http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
 
+See for "Recent papers that used machine learning for RNA secondary structure prediction":
+
+      Name	Authors	Year	Method	Intra-family	Inter-family	Re-trained
+      CROSS 	Delli Ponti et al. 	2017 	ANNa 	✓ 	✗ 	✗ 
+      DMfold 	Wang et al. 	2019 	LSTMb 	✓ 	✗ 	✗ 
+      SPOT-RNA 	Singh et al. 	2019 	CNNc + BLSTMd 	✓ 	✗ 	✗ 
+      E2Efold 	Chen et al. 	2019 	CNNc + Transformere 	✓ 	✗ 	✗ 
+      RNA-state-inf 	Willmott et al. 	2020 	BLSTMd 	✓ 	✓ 	✗ 
+      RPRes 	Wang et al. 	2021 	BLSTMd + ResNetf 	✓ 	✗ 	✗ 
+      MXfold2 	Sato et al. 	2021 	BLSTMd + ResNetc 	✓ 	✓ 	✓ 
+      UFold 	Fu et al. 	2021 	CNNc 
+
+Szikszai, M., Wise, M., Datta, A., Ward, M. & Mathews, D. H. Deep learning models for RNA secondary structure prediction (probably) do not generalize across families. Bioinformatics 38, 3892–3899 (2022). https://academic.oup.com/bioinformatics/article/38/16/3892/6617348
+  
+  
 # RNA 2.5D structure predictions
 Tools that predict other types of contacts in RNA structures, including non-canonical base
 pairs.
