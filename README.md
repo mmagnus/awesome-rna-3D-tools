@@ -103,7 +103,7 @@ Tools that predict other types of contacts in RNA structures, including non-cano
 
 > During the last decade, a good number of RNA 3D structure prediction algorithms have been actively developed and improved. These prediction methods cover approaches similar to protein structure prediction, including comparative modeling (e.g., ModeRNA), fragment assembly (e.g., RNAComposer, 3dRNA, and VfoldLA), and de novo modeling (e.g., NAST, iFoldRNA, and SimRNA/SimRNAweb).
 
-- YUP - one bead (P atom) - Tan, R. K. Z., Petrov, A. S. & Harvey, S. C. YUP: A Molecular Simulation Program for Coarse-Grained and Multiscaled Models. J Chem Theory Comput 2, 529–540 (2006).
+- YUP - one bead (P atom) - Tan,R.K.Z., Petrov,A.S. and Harvey,S.C. (2006) YUP: A Molecular Simulation Program for Coarse-Grained and Multiscaled Models. J Chem Theory Comput, 2, 529–540. https://doi.org/10.1021/ct050323r http://www.ncbi.nlm.nih.gov/pubmed/22844233
 - NAST - one bead (C3′ atom) - Jonikas, M. A. et al. Coarse-grained modeling of large RNA molecules with knowledge-based potentials and structural filters. Rna 15, 189–199 (2009).
 - HiRE-RNA - >5 beads
 
@@ -206,6 +206,10 @@ http://genesilico.pl/
 
 [^4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4666395/
 
-<!--
+testing area
+
 [Nature formatting with papers3]
--->
+Tan, R. K. Z., Petrov, A. S. & Harvey, S. C. YUP: A Molecular Simulation Program for Coarse-Grained and Multiscaled Models. J Chem Theory Comput 2, 529–540 (2006). 
+
+Tan,R.K.Z., Petrov,A.S. and Harvey,S.C. (2006) YUP: A Molecular Simulation Program for Coarse-Grained and Multiscaled Models. J Chem Theory Comput, 2, 529–540. https://doi.org/10.1021/ct050323r http://www.ncbi.nlm.nih.gov/pubmed/22844233
+
