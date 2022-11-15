@@ -16,12 +16,15 @@ https://github.com/mmagnus/awesome-rna-3D-tools
 **Table of Contents**
 
 - [RNA Toolbox](#rna-toolbox)
+- [Deep Learning for RNA](#deep-learning-for-rna)
 - [RNA structural databases](#rna-structural-databases)
 - [RNA 2D structure prediction](#rna-2d-structure-prediction)
 - [RNA 2.5D structure predictions](#rna-25d-structure-predictions)
 - [RNA 3D contacts predictions from alignments](#rna-3d-contacts-predictions-from-alignments)
 - [RNA 3D contacts annotation](#rna-3d-contacts-annotation)
 - [RNA 3D annotation](#rna-3d-annotation)
+- [RNA 3D comparison metrics](#rna-3d-comparison-metrics)
+- [RNA 3D structure prediction](#rna-3d-structure-prediction)
 - [RNA-Protein Docking](#rna-protein-docking)
 - [RNA Minimization/Optimize/Refinement](#rna-minimizationoptimizerefinement)
 - [List of tools (per labs)](#list-of-tools-per-labs)
@@ -67,8 +70,7 @@ Szikszai, M., Wise, M., Datta, A., Ward, M. & Mathews, D. H. Deep learning model
   
   
 # RNA 2.5D structure predictions
-Tools that predict other types of contacts in RNA structures, including non-canonical base
-pairs.
+Tools that predict other types of contacts in RNA structures, including non-canonical base pairs.
 
 - MC-Fold (Parisien and Major, 2008)
 - RNAwolf (zu Siederdissen et al., 2011)
@@ -100,6 +102,10 @@ pairs.
 # RNA 3D structure prediction
 
 > During the last decade, a good number of RNA 3D structure prediction algorithms have been actively developed and improved. These prediction methods cover approaches similar to protein structure prediction, including comparative modeling (e.g., ModeRNA), fragment assembly (e.g., RNAComposer, 3dRNA, and VfoldLA), and de novo modeling (e.g., NAST, iFoldRNA, and SimRNA/SimRNAweb).
+
+- YUP - one bead (P atom) - Tan, R. K. Z., Petrov, A. S. & Harvey, S. C. YUP: A Molecular Simulation Program for Coarse-Grained and Multiscaled Models. J Chem Theory Comput 2, 529–540 (2006).
+- NAST - one bead (C3′ atom) - Jonikas, M. A. et al. Coarse-grained modeling of large RNA molecules with knowledge-based potentials and structural filters. Rna 15, 189–199 (2009).
+- HiRE-RNA - >5 beads
 
 # RNA-Protein Docking
 
@@ -199,3 +205,7 @@ http://genesilico.pl/
 [^3]: Chengxin Zhang, Anna Marie Pyle (2022) "CSSR: assignment of secondary structure to coarse-grained RNA tertiary structures." Acta Crystallogr D. In press.
 
 [^4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4666395/
+
+<!--
+[Nature formatting with papers3]
+-->
